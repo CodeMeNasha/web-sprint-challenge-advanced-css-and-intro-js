@@ -150,9 +150,15 @@ button:hover{
 
     .artists-container{
         flex-direction: column;
+        /* width: 50%; */
+        
     }
     .artist {
         width: 100%
+    }
+    .artist img {
+        height: 70%;
+        width: 70%
     }
 
 }
